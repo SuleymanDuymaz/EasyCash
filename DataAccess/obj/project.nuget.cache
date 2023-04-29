@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "87chiYDDT5JFHn/Q6+ScwEapjSeynjcdIduVxZCqgnWdZteG6BuZCr1e73rx7d0mnwIRZY1W9yXXDPt9b+VtNg==",
+  "dgSpecHash": "ETUHdiwEgDQi6IVBxzR517UxE1uw02wIdI2CItA3i0bsadR8nsJJ0DHvfWdBpzeGXlyfzo5BbrclFRsc3fYLBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
