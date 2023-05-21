@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DTO.DTOS.AppUserDto
 {
-    internal class AppUserRegisterDto
+    public class AppUserRegisterDto
     {
+        public string Name { get; set; }
+        public string SurName { get; set; }
+        public string UserName { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public string ConfirmPassword { get; set; }
     }
 }

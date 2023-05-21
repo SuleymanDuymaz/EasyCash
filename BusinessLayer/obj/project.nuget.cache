@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xAQn9ecHztNFZfHj4GPmjmoC3sr34l3zB7u69kH96jJIY134PYL90GHsU8d0q49UPO7bZ7IGKglTLLtwekXB4w==",
+  "dgSpecHash": "70vnQEfZB/2KTvPOF3KbQ9pnAyevaZ8Deve3JT36GXsLmQ2rNrgP8DhENwM17WumLUejQTCyVcGp2GXKfBkXDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
