@@ -71,3 +71,9 @@ C:\Users\sduym\source\repos\EasyCash\Presentation\obj\Debug\net6.0\refint\Presen
 C:\Users\sduym\source\repos\EasyCash\Presentation\obj\Debug\net6.0\Presentation.pdb
 C:\Users\sduym\source\repos\EasyCash\Presentation\obj\Debug\net6.0\Presentation.genruntimeconfig.cache
 C:\Users\sduym\source\repos\EasyCash\Presentation\obj\Debug\net6.0\ref\Presentation.dll
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\DTO.dll
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\DTO.pdb
+C:\Users\sduym\source\repos\EasyCash\Presentation\bin\Debug\net6.0\EntityLayer.pdb
