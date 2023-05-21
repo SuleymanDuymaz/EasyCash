@@ -1,10 +1,12 @@
 using DataAccessLayer.Concrete.EFCore;
+using EntityLayer.Concrete;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<Context>()
+builder.Services.AddDbContext<Context>();//
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();//
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -19,7 +21,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();//
 app.UseAuthorization();
 
 app.MapControllerRoute(

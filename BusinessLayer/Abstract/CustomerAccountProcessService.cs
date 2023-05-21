@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
-    internal interface CustomerAccountProcess
+    public interface CustomerAccountProcessService:IGenericService<CustomerAccountProcessService>
     {
     }
 }

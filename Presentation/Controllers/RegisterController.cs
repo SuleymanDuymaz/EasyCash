@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DTO.DTOS.AppUserDto;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Presentation.Controllers
 {
@@ -6,6 +7,11 @@ namespace Presentation.Controllers
     {
         public IActionResult Index()
         {
+            return View();
+        }
+        public IActionResult Index(AppUserRegisterDto appUserRegisterDto)
+        {
+
             return View();
         }
     }

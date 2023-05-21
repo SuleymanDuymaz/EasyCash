@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
-    internal class IGenericService
+    public interface IGenericService<T> where T : class
     {
+        void Insert(T t);
+        void Update(T t);
+        void Delete(T t);
+        T TGetById(int id);
+        List<T> GetAll();
+
     }
 }
