@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8/pSKNqZwO+m7VafrvxNPqkvsXm0Snh5oCTqJ3gIhVQSc/DEvkBa0DJ00hd1vjjIChXqFHa17Ul31DLP22ecBA==",
+  "dgSpecHash": "UAc3MpEXq6NNNHGHrjC8aCaxBU44/ut8TeHaqREuLZ5KryvOqa4EGlF7eYyOs85Ve+FncbyMQ74a1uvNoG5KTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -33,8 +33,10 @@
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OkvV/RyF2JvBhI1BkMNrrSgLwbdf6DOcRcc4GSUo0S9/U7NVdk+P6kPx9ZAeGTGhKOmilCR9xT/RVflIqgsmBw==",
+  "dgSpecHash": "eyWVohyHBl1DK2bYrep5kRf8oEAPLyGbsonvAA5M8wIjZHsmos4xfgSs0zdmaIcKUb2cTeENJC3rXrjtf07e6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
@@ -31,8 +31,10 @@
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",

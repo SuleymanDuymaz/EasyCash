@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete.EFCore
 {
-    public class Context:IdentityDbContext
+    public class Context:IdentityDbContext<AppUser,AppRole,string>
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

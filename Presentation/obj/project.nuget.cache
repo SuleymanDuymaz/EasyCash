@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FQOPp3UUb0vghmNRdnrjDt2T5XMziAZa+i4AFxzBLIDYcmwNBAsowL3Ge08qNdxaqAhH+KcQMXCuOdf4DENMRQ==",
+  "dgSpecHash": "k1UDlzXm2FuKA1gjK/4Iuen5PgFo+XUmvujnKCUaR+YQyy3F0AQRhcYVhgnSh5/HBUxggIB8avbkMy4ffkUtuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
@@ -64,6 +64,7 @@
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.13\\microsoft.visualstudio.web.codegeneration.6.0.13.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.13\\microsoft.visualstudio.web.codegeneration.core.6.0.13.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\6.0.13\\microsoft.visualstudio.web.codegeneration.design.6.0.13.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.entityframeworkcore\\6.0.13\\microsoft.visualstudio.web.codegeneration.entityframeworkcore.6.0.13.nupkg.sha512",
