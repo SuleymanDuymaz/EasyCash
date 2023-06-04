@@ -288,6 +288,9 @@
               },
               "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj": {
                 "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj"
               }
             }
           }
@@ -333,6 +336,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             }
           },
           "imports": [

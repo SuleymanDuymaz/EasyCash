@@ -245,6 +245,42 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\css\\popuo-box.css",
+      "PackagePath": "staticwebassets\\register\\css\\popuo-box.css"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\css\\style.css",
+      "PackagePath": "staticwebassets\\register\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\register\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\images\\e-mail.png",
+      "PackagePath": "staticwebassets\\register\\images\\e-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\images\\password.png",
+      "PackagePath": "staticwebassets\\register\\images\\password.png"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\images\\tick.png",
+      "PackagePath": "staticwebassets\\register\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\images\\user.png",
+      "PackagePath": "staticwebassets\\register\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\wwwroot\\register\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\register\\js\\jquery.magnific-popup.js"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
