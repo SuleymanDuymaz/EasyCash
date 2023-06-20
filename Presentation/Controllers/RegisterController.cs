@@ -44,7 +44,7 @@ namespace Presentation.Controllers
 				if (result.Succeeded)
 				{
 					MimeMessage mimeMessage = new MimeMessage();
-					MailboxAddress mailboxAddressFrom = new MailboxAddress("Easy Cash Admin", "sduymaz8@gmail.com");
+					MailboxAddress mailboxAddressFrom = new MailboxAddress("Kripto Yatırım Admin", "sduymaz8@gmail.com");
 					MailboxAddress mailboxAddressTo = new MailboxAddress("User", appUser.Email);
 
 					mimeMessage.From.Add(mailboxAddressFrom);
@@ -54,7 +54,7 @@ namespace Presentation.Controllers
 					bodyBuilder.TextBody = "Kayıt işlemini gerçekleştirmek için onay kodunuz:" + code;
 					mimeMessage.Body = bodyBuilder.ToMessageBody();
 
-					mimeMessage.Subject = "Easy Cash Onay Kodu";
+					mimeMessage.Subject = "Kripto Yatırım Onay Kodu";
 
 					SmtpClient client = new SmtpClient();
 					client.Connect("smtp.gmail.com", 587, false);
