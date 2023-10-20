@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj": {}
+    "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj": {
+    "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj",
+        "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

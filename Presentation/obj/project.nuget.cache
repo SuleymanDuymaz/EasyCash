@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPAYdqb+2WLvk0PhFdyCEHRuzWRZpW5X/78Gk555JWHN01vOfmRogwQTKINjrZ9LFFpH10OrnrxN+ijs8Vi7ig==",
+  "dgSpecHash": "M+1/me8R/XP1jDQSLUUj7WxMEUM41UoLoYjFzASrBFT+QyVarWBkBmMWVs4dTFRzFEzpeiDeCZrDoiOCV3iAng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",

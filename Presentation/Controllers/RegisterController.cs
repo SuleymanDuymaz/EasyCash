@@ -4,6 +4,7 @@ using MailKit.Net.Smtp;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MimeKit;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
 
 
 namespace Presentation.Controllers
@@ -68,7 +69,9 @@ namespace Presentation.Controllers
 
 					return RedirectToAction("Index", "ConfirmMail");
 				}
-				else
+                //asp - validation - summary alanı için
+
+                else
 				{
 					foreach (var item in result.Errors)
 					{

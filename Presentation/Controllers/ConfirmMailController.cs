@@ -5,8 +5,8 @@ using Presentation.Models;
 
 namespace Presentation.Controllers
 {
-	public class ConfirmMailController : Controller
-	{
+    public class ConfirmMailController : Controller
+    {
         private readonly UserManager<AppUser> _userManager;
         public ConfirmMailController(UserManager<AppUser> userManager)
         {

@@ -10450,11 +10450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\Presentation.csproj",
+      "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Presentation\\Presentation.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Presentation\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10471,14 +10471,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj"
+            "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj"
+            "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj"
+            "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj"
             }
           }
         }
@@ -10549,7 +10549,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

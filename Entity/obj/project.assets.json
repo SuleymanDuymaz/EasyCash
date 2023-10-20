@@ -2268,11 +2268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2346,7 +2346,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

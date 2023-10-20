@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj": {}
+    "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj": {
+    "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj",
+        "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

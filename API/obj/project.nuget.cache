@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UAc3MpEXq6NNNHGHrjC8aCaxBU44/ut8TeHaqREuLZ5KryvOqa4EGlF7eYyOs85Ve+FncbyMQ74a1uvNoG5KTA==",
+  "dgSpecHash": "Kn5MfltymBP629XiT42NNbUIfp+JwLEveQhV3THLVIRoYXVcd3B5CDxasD5vSCEfXs7Dzah87/YwN01b/8f15w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

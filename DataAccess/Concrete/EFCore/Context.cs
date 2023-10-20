@@ -14,7 +14,7 @@ namespace DataAccessLayer.Concrete.EFCore
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-9L38DMG;database=EasyCash;integrated security=true;");
+            optionsBuilder.UseSqlServer("server=.;database=EasyCash;integrated security=true;");
         }
         public DbSet<CustomerAccount> CustomerAccounts { get; set; }
         public DbSet<CustomerAccountProcess> CustomerAccountProcesses { get; set; }
