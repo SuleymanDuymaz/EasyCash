@@ -9,57 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Presentation
 build_property.RootNamespace = Presentation
-build_property.ProjectDir = C:\Users\sduym\Source\Repos\EasyCash\Presentation\
+build_property.ProjectDir = C:\Users\sduym\source\repos\EasyCash\Presentation\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sduym\Source\Repos\EasyCash\Presentation
+build_property.MSBuildProjectDirectory = C:\Users\sduym\source\repos\EasyCash\Presentation
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/ConfirmMail/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/ConfirmMail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlybU1haWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Home/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/ErrorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Home/Privacy.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Login/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/MyAccount/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/MyAccount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlBY2NvdW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/MyProfile/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/MyProfile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlQcm9maWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Register/Index.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Shared/Error.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/_ViewImports.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/_ViewStart.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sduym/Source/Repos/EasyCash/Presentation/Views/Shared/_Layout.cshtml]
+[C:/Users/sduym/source/repos/EasyCash/Presentation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fhvjq1vla1

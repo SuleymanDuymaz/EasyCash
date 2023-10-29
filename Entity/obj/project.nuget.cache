@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1syrrLHZYZ1Zi5JsowSW0ZFkJTJT/xvqWkIb7df3v7+ZvtPPxqdvz9JYGnLNQaYKwkIL813XF7i78H1mAaj0KA==",
+  "dgSpecHash": "T1njhpkqM4NMKBkvk+Wy9kGRTOj5ASvRsOkNVdZFEyIeBFt3YEsq3Sh7bLvbq65Xk1SKp4pC9ca8rCoeWNEItA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

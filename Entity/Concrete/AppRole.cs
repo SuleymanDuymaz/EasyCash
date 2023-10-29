@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.Concrete
 {
-    public class AppRole:IdentityRole
+    public class AppRole : IdentityRole<int>
     {
     }
 }

@@ -21,13 +21,15 @@ namespace Presentation.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Index(LoginViewModel loginViewModel)
 		{
+			//false alanı tarayıcı kapandığı zaman tekrar girince hatırlasın mı? alanıdır
+			//	accesfaildcount true
 			var result = await _signInManager.PasswordSignInAsync(loginViewModel.Username, loginViewModel.Password, false, true);
 			if (result.Succeeded)
 			{
 				var user = await _userManager.FindByNameAsync(loginViewModel.Username);
 				if (user.EmailConfirmed == true)
 				{
-					return RedirectToAction("Index", "MyAccounts");
+					return RedirectToAction("Index", "MyAccount");
 				}
 				
 			}

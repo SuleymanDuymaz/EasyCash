@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yS/37vmjzQLyUl/346rOEjvmw7oLpouGNFzmAvauOmVwBqg4aQb46CRThXBfrpCFn2JswfB0uq6+47oHtzdhFw==",
+  "dgSpecHash": "0+tTHMUuV6HHKiB0AI8wsR++RdGqk9uns/q25hglRuiMxwoPMKthKmR7d+z4+v5WWWoXYaqHsw3Y/y9WOtEaEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

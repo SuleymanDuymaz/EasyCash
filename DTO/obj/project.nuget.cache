@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yRM+xhlDOdAe73WSofBSItR0lpViGTLn86T7XJCkzf2VaKczWpx51+E3GCnXPftd7IDN+h49QB5/qN3+Ct0PcA==",
+  "dgSpecHash": "Uex38EUWBqeK6EkLAjYXBf5gSQiXwCkV8lvLLCw0W+MD/vfNNx0FfiSXsHVVZ4vwMVhzgU6w6DuN/gZ+fI2HtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

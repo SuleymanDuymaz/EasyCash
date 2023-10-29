@@ -2290,11 +2290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2311,8 +2311,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\sduym\\Source\\Repos\\EasyCash\\Entity\\EntityLayer.csproj"
+            "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\sduym\\source\\repos\\EasyCash\\Entity\\EntityLayer.csproj"
             }
           }
         }

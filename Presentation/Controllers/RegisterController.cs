@@ -36,7 +36,7 @@ namespace Presentation.Controllers
 					Name = appUserRegisterDto.Name,
 					Surname = appUserRegisterDto.SurName,
 					Email = appUserRegisterDto.Email,
-					City = "aaaa",
+					City = "aaaa",//lat lonh
 					District = "bbbb",
 					ImageUrl = "cccc",
 					ConfirmCode = code
